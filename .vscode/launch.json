@@ -12,6 +12,7 @@
         "protocol": "inspector",
         "console": "integratedTerminal",
         "internalConsoleOptions": "neverOpen"
+        
       },
       {
         "name": "Jest Debug tests watch mode",
